@@ -1,0 +1,54 @@
+2021-07-21 21:37:44,266 [main] INFO ebanking - URL os opened
+2021-07-21 21:37:44,322 [main] INFO ebanking - we Landed in Login Homepgae and giving username and password
+2021-07-21 21:37:46,684 [main] INFO ebanking - We are in Main HomePage
+2021-07-21 21:37:46,706 [main] INFO ebanking - Test passed
+2021-07-21 21:39:39,121 [main] INFO Hybrid-ebanking - URL is opened
+2021-07-21 21:39:39,167 [main] INFO Hybrid-ebanking - we Landed in Login Homepgae and giving username and password
+2021-07-21 21:39:41,519 [main] INFO Hybrid-ebanking - We are in Main HomePage
+2021-07-21 21:39:41,533 [main] INFO Hybrid-ebanking - Test passed
+2021-07-21 22:22:31,908 [main] INFO Hybrid-ebanking - URL is opened
+2021-07-21 22:22:31,947 [main] INFO Hybrid-ebanking - we Landed in Login Homepgae and giving username and password
+2021-07-21 22:22:34,479 [main] INFO Hybrid-ebanking - We are in Main HomePage
+2021-07-21 22:22:34,504 [main] INFO Hybrid-ebanking - Test passed
+2021-07-21 22:27:26,488 [main] INFO Hybrid-ebanking - URL is opened
+2021-07-21 22:27:26,522 [main] INFO Hybrid-ebanking - we Landed in Login Homepage and giving username and password
+2021-07-21 22:27:28,764 [main] INFO Hybrid-ebanking - We are in Main HomePage
+2021-07-21 22:27:28,777 [main] INFO Hybrid-ebanking - Test passed
+2021-07-21 22:31:06,575 [main] INFO Hybrid-Ebanking - URL is opened
+2021-07-21 22:31:06,612 [main] INFO Hybrid-Ebanking - we Landed in Login Homepage and giving username and password
+2021-07-21 22:31:08,771 [main] INFO Hybrid-Ebanking - We are in Main HomePage
+2021-07-21 22:31:08,786 [main] INFO Hybrid-Ebanking - Test passed
+2021-07-21 22:55:50,367 [main] INFO Hybrid-Ebanking - URL is opened
+2021-07-21 22:55:50,405 [main] INFO Hybrid-Ebanking - we Landed in Login Homepage and giving username and password
+2021-07-21 22:55:52,770 [main] INFO Hybrid-Ebanking - We are in Main HomePage
+2021-07-21 22:55:52,784 [main] INFO Hybrid-Ebanking - Test passed
+2021-07-21 22:58:12,913 [main] INFO Hybrid-Ebanking - URL is opened
+2021-07-21 22:58:13,011 [main] INFO Hybrid-Ebanking - we Landed in Login Homepage and giving username and password
+2021-07-21 22:58:14,012 [main] INFO Hybrid-Ebanking - We are in Main HomePage
+2021-07-21 23:02:46,609 [main] INFO Hybrid-Ebanking - URL is opened
+2021-07-21 23:02:46,658 [main] INFO Hybrid-Ebanking - we Landed in Login Homepage and giving username and password
+2021-07-21 23:02:47,698 [main] INFO Hybrid-Ebanking - We are in Main HomePage
+2021-07-21 23:12:59,536 [main] INFO Hybrid-Ebanking - URL is opened
+2021-07-21 23:12:59,584 [main] INFO Hybrid-Ebanking - we Landed in Login Homepage and giving username and password
+2021-07-21 23:13:02,175 [main] INFO Hybrid-Ebanking - We are in Main HomePage
+2021-07-21 23:13:02,189 [main] INFO Hybrid-Ebanking - Test passed
+2021-07-21 23:22:00,268 [main] INFO Hybrid-Ebanking - URL is opened
+2021-07-21 23:22:00,324 [main] INFO Hybrid-Ebanking - we Landed in Login Homepage and giving username and password
+2021-07-21 23:22:01,268 [main] INFO Hybrid-Ebanking - We are in Main HomePage
+2021-07-21 23:24:30,985 [main] INFO Hybrid-Ebanking - URL is opened
+2021-07-21 23:24:31,049 [main] INFO Hybrid-Ebanking - we Landed in Login Homepage and giving username and password
+2021-07-21 23:24:33,589 [main] INFO Hybrid-Ebanking - We are in Main HomePage
+2021-07-22 07:40:47,681 [main] INFO Hybrid-Ebanking - URL is opened
+2021-07-22 07:40:47,809 [main] INFO Hybrid-Ebanking - we Landed in Login Homepage and giving username and password
+2021-07-22 07:40:51,258 [main] INFO Hybrid-Ebanking - We are in Main HomePage
+2021-07-22 07:40:51,299 [main] INFO Hybrid-Ebanking - Test passed
+2021-07-22 17:29:34,875 [main] INFO Hybrid-Ebanking - User name is provided
+2021-07-22 17:29:35,128 [main] INFO Hybrid-Ebanking - Passsword is provided
+2021-07-22 17:29:41,736 [main] INFO Hybrid-Ebanking - providing customer details....
+2021-07-22 17:29:51,643 [main] INFO Hybrid-Ebanking - validation started....
+2021-07-22 17:29:51,703 [main] INFO Hybrid-Ebanking - test case failed....
+2021-07-22 17:37:05,468 [main] INFO Hybrid-Ebanking - User name is provided
+2021-07-22 17:37:05,813 [main] INFO Hybrid-Ebanking - Passsword is provided
+2021-07-22 17:37:12,305 [main] INFO Hybrid-Ebanking - providing customer details....
+2021-07-22 17:37:22,589 [main] INFO Hybrid-Ebanking - validation started....
+2021-07-22 17:37:22,646 [main] INFO Hybrid-Ebanking - test case failed....

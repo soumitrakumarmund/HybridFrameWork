@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [GURU99 Demo Excersice]">
+  <listeners>
+    <listener class-name="com.hybridfm.utilities.Reporting"/>
+  </listeners>
+  <test thread-count="5" name="Banking Test(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.hybridfm.testCases.TC_AddCustomerTest_003">
+        <methods>
+          <include name="addNewCustomer"/>
+          <include name="setDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.hybridfm.testCases.TC_AddCustomerTest_003 -->
+    </classes>
+  </test> <!-- Banking Test(failed) -->
+</suite> <!-- Failed suite [GURU99 Demo Excersice] -->

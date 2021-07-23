@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="GURU99 Demo Excersice">
+
+	<listeners>
+		<listener class-name="com.hybridfm.utilities.Reporting"/>
+	</listeners>
+	
+	<test thread-count="5" name="Banking Test">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<!-- <class name="com.hybridfm.testCases.TC_LoginTest_001" /> -->
+			<!-- <class name="com.hybridfm.testCases.TC_LoginDDT_002" /> -->
+			<class name="com.hybridfm.testCases.TC_AddCustomerTest_003" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
