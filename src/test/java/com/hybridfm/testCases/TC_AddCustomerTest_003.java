@@ -32,7 +32,8 @@ public class TC_AddCustomerTest_003 extends BaseClass {
 		
 		addcust.custName("Pavan");
 		addcust.custgender("male");
-		addcust.custdob("10","15","1985");
+		Thread.sleep(3000);
+		addcust.custdob("10","09","1993");
 		Thread.sleep(5000);
 		addcust.custaddress("INDIA");
 		addcust.custcity("HYD");
